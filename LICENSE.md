@@ -1,4 +1,4 @@
-#  
+#  Craft for macOS vip Plugin: cloud backup & dark mode offers the most advanced Craft for macOS plugin, with cloud backup and dark mode. Ideal for professionals.
 
 
 
